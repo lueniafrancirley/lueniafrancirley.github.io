@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	font-family: 'Architects Daughter', cursive;
+}
+	.headerfooter {
+		text-align: center;
+		background-color: white;
+		padding: 15px;
+	}
+
+	section > div {
+		background-color: #EF9A9A;
+		margin: 30px;
+		padding: 30px;
+		border-radius: 25px;
+		font-family: 'Muli', sans-serif;
+	}
+	header > img {
+		border-radius: 200px;
+	}
+	li{
+		margin-bottom: 20px;
+	}
